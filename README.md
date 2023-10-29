@@ -1,25 +1,51 @@
-# 💫 About Me:
-🔗 I'm frontend begginer level developer
+<h2 align="center">Hi 👋! It's Rafat here & I'm a Frontend Web Developer, from Bangladesh</h2>
 
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054616691154&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Finvites%2Fcontact%2F%3Fi%3Dyn3y79ptf8gw%26utm_content%3Djbtl9v1%26fbclid%3DIwAR28z8tNvl3xkhjwwiJ0TTeThs6O6LOB4Y4hTx6NMLXCpkMR8q1q_kjaMe4&h=AT3cP9C7Cgoz8Y8u3_Sp5athdXryvAN0bEqGAqtqFTCb0denOFby0arK7Zhd3xZCigdYihYU2GaHf1nBqEzvu6wQWArc9M6qCDw-6c06HPfQCbwbxVG51Ocv5wmTOEGZRt-tnw)
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/Rafat-Ahmed2023?panels=userstatistics,toprepositories,toplanguages,commitgraph" height="230" alt="streak graph"  />
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rafat-Ahmed2023&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafat-Ahmed2023&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rafat-Ahmed2023&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rafat-Ahmed2023&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://discord.com/users/974590170005389354" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100054616691154" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="mailto:0092powerstar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rafat-ahmed-b1a84325b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
----
+###
+
+<div align="center"><a href="https://discord.com/users/974590170005389354"><img src="https://lanyard.cnrad.dev/api/974590170005389354"/></a></div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ghhotkvnf764nyoydxr52pwlem">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ghhotkvnf764nyoydxr52pwlem&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
