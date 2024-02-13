@@ -24,10 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/>
 
 
-<div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/Rafat-Ahmed2023?panels=userstatistics,toprepositories,toplanguages,commitgraph" height="230" alt="streak graph"  />
-</div>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafat-Ahmed2023&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafat-Ahmed2023&theme=gruvbox"/>
