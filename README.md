@@ -22,8 +22,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafat-Ahmed2023&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafat-Ahmed2023&theme=gruvbox" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafat-Ahmed2023&theme=gruvbox" height="180em" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafat-Ahmed2023&theme=gruvbox"/>
 
 <picture>
