@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Rafat</h1>
-<h3>Frontend Developer with a passion for coding , JavaScript,HTML , CSS , REACT , Tailwind & Bootstrap .</h3>
+<h3>Frontend Developer with a passion for coding HTML , CSS , Tailwind & BOOTSTAP JavaScript , REACT.</h3>
 <img src="https://komarev.com/ghpvc/?username=Rafat-Ahmed2023&label=Profile%20views&color=0e75b6&style=flat" alt="Rafat-Ahmed2023" /><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Rafat-Ahmed2023&theme=gruvbox" alt="Rafat-Ahmed2023" /><br><br>
 <a href="https://discord.com/users/974590170005389354" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
