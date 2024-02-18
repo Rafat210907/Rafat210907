@@ -28,6 +28,9 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafat-Ahmed2023&theme=gruvbox"/>
 
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafat-Ahmed2023/Rafat-Ahmed2023/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafat-Ahmed2023/Rafat-Ahmed2023/output/github-contribution-grid-snake.svg" />
