@@ -21,6 +21,8 @@
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="REACTBOOTSTRAP" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
+
 
 ###
 
@@ -29,7 +31,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafat-Ahmed2023&theme=gruvbox"/>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafat-Ahmed2023/Rafat-Ahmed2023/output/github-contribution-grid-snake-dark.svg" />
