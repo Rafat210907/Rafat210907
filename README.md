@@ -13,22 +13,24 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2>⚙Tech Stack</h3>
+
+
+<img align="right" alt="Coding" height="300px" width="450px" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
+
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="40" height="40"/>
-<img align="right" alt="Coding" height="400px" width="450px" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" alt="GITHUBACTIONS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="HTML" width="40" height="40"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="HTML" width="40" height="40"/>
+
+
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TAILWIND" width="40" height="40"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="BOOTSTRAP" width="40" height="40"/>
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="REACTBOOTSTRAP" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/>
-
-
-
-
-###
-###
-###
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafat-Ahmed2023&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
+<br><br><br><br><br>
+<img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafat-Ahmed2023&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
+<img  align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafat-Ahmed2023&theme=gruvbox"/>
 
 
