@@ -6,47 +6,39 @@
 <a href="https://discord.com/users/974590170005389354" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/profile.php?id=100054616691154&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Rafat-Ahmed2023" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/biskate_ykyk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></div>
+<a href="https://www.instagram.com/biskate_ykyk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<div display="flex">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2>⚙Tech Stack</h3>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="40" height="40"/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" alt="GITHUBACTIONS" width="40" height="40"/>
 
-  <div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2>⚙Tech Stack</h3>
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="40" height="40"/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" alt="GITHUBACTIONS" width="40" height="40"/>
-
-
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="HTML" width="40" height="40"/>
 
 
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TAILWIND" width="40" height="40"/>   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="BOOTSTRAP" width="40" height="40"/>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TAILWIND" width="40" height="40"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="BOOTSTRAP" width="40" height="40"/>
 
 
-          
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="REACTBOOTSTRAP" width="40" height="40" /><img align="left"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/></div>
-  <div><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif"></div>
 
-  </div>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="REACTBOOTSTRAP" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img alt="Coding" width="400px" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
 
 ###
 ###
 ###
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafat-Ahmed2023&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafat-Ahmed2023&theme=gruvbox"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafat-Ahmed2023&show_icons=true&locale=en&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafat-Ahmed2023&theme=gruvbox&hide_border=true" alt="Rafat-Ahmed2023" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafat-Ahmed2023&theme=gruvbox"/>
 
 
-  <picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafat-Ahmed2023/Rafat-Ahmed2023/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafat-Ahmed2023/Rafat-Ahmed2023/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rafat-Ahmed2023/Rafat-Ahmed2023/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+</picture>
 
-  <a href="https://open.spotify.com/user/31ghhotkvnf764nyoydxr52pwlem?si=bcb2ab0904ee4bd4"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ghhotkvnf764nyoydxr52pwlem" alt="Data Card for Spotify"></a>
+<a href="https://open.spotify.com/user/31ghhotkvnf764nyoydxr52pwlem?si=bcb2ab0904ee4bd4"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ghhotkvnf764nyoydxr52pwlem" alt="Data Card for Spotify"></a>
 </div>
 
