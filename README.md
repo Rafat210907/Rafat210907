@@ -2,7 +2,6 @@
 <h1>Hi 👋, I'm Rafat</h1>
 <h3>Frontend Developer with a passion for coding HTML , CSS , Tailwind & BOOTSTAP JavaScript , REACT.</h3>
 <img src="https://komarev.com/ghpvc/?username=Rafat210907&label=Profile%20views&color=0e75b6&style=flat" alt="Rafat-Ahmed2023" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Rafat210907&theme=gruvbox" alt="Rafat210907" /><br><br>
 <a href="https://discord.com/users/974590170005389354" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/profile.php?id=100054616691154&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Rafat210907" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
