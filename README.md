@@ -41,6 +41,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rafat-Ahmed2023/Rafat210907/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<a href="https://open.spotify.com/user/31ghhotkvnf764nyoydxr52pwlem?si=bcb2ab0904ee4bd4"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ghhotkvnf764nyoydxr52pwlem" alt="Data Card for Spotify"></a>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ghhotkvnf764nyoydxr52pwlem"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ghhotkvnf764nyoydxr52pwlem" alt="Data Card for Spotify"></a>
 </div>
 
